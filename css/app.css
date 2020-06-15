@@ -8,7 +8,7 @@
 body {
   font-size: 32px;
   font-family: "Inter", sans-serif;
-  background-image: url(/images/pattern-curve.svg);
+  background-image: url(./images/pattern-curve.svg);
   background-position: center bottom;
   background-repeat: no-repeat;
   background-size: contain;
@@ -106,13 +106,13 @@ body {
 }
 
 .slider .control .prev::after {
-  background-image: url(/images/icon-prev.svg);
+  background-image: url(./images/icon-prev.svg);
   background-size: 19%;
 }
 
 .slider .control .next::after {
   background-size: 20%;
-  background-image: url(/images/icon-next.svg);
+  background-image: url(./images/icon-next.svg);
 }
 
 .slide {
@@ -146,7 +146,7 @@ body {
   width: 100%;
   margin: 30px auto;
   padding: 22px;
-  background-image: url(/images/pattern-bg.svg);
+  background-image: url(./images/pattern-bg.svg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
@@ -191,7 +191,7 @@ body {
 
 .slide-text {
   padding: 20px;
-  background-image: url(/images/pattern-quotes.svg);
+  background-image: url(./images/pattern-quotes.svg);
   background-position: top center;
   background-repeat: no-repeat;
   background-size: 15%;
